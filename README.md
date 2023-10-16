@@ -47,7 +47,6 @@ We carry out EDA, pre-processing, clustering using the techniques shown in the c
 
 ## ⚡ Execution
 
-Read the file Instructions.
 You can use the google colaboratory directly on the files.
 
 ## 🤔 Contributing
